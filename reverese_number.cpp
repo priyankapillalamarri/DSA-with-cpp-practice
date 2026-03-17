@@ -3,7 +3,7 @@ using namespace std;
 
 
 int isReverse(int x) {
-    int rev = 0, rem ,store = x;
+    int rev = 0, rem ;
 
     if(x< 0) {
         return false;
