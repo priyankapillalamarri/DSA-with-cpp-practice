@@ -1,3 +1,5 @@
+//Example for time complexity of O(1)
+
 #include<iostream>
 using namespace std;
 
