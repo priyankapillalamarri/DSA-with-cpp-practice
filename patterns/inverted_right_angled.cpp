@@ -15,7 +15,7 @@ int main() {
     return 0;
 }
 
-/*output:
+/*output for n=5:
 11111
 1111
 111
